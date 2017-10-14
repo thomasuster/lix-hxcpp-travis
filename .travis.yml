@@ -5,7 +5,7 @@ install:
   # lix
   - npm i haxeshim -g
   - npm i switchx -g
-  - switchx install latest
+  - switchx install 3.4.4
   - npm i lix.pm -g
   
   # haxelib for hxcpp
